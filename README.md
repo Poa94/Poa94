@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Im Pablo Otero
 
+![Codewars](https://github.r2v.ch/codewars?user=Poa94&stroke=blue)
 <!--
 **Poa94/Poa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
