@@ -1,4 +1,4 @@
-## Hi there 👋 Im Pablo Otero
+## Hi there 👋 I'm Pablo Otero
 
 ![Codewars](https://github.r2v.ch/codewars?user=Poa94&stroke=blue)
 <!--
